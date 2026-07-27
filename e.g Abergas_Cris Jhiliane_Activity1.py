@@ -1,0 +1,7 @@
+print("===== STUDENT INFORMATION =====")
+print("Name: Cris Jhiliane Abergas")
+print("Age: 18")
+print("Course: BSIT")
+print("Section: 1BSIT-S10")
+print("Address: 153, Purok 3, Inspector, Santa Rosa, Nueva Ecija, Philippines, 3101")
+print("Favorite Hobby: Watching K-Dramas")
